@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 330" width="790" height="330" font-family="Arial, sans-serif">
+<rect width="790" height="330" fill="white"/><g transform="translate(60,0)">
+<text x="360" y="24" font-size="16" text-anchor="middle" font-weight="bold" fill="#111">Trayectoria de la flecha</text>
+<line x1="70" y1="270" x2="695" y2="270" stroke="#111" stroke-width="1.5"/>
+<line x1="70" y1="270" x2="70" y2="35" stroke="#111" stroke-width="1.5"/>
+<text x="698" y="274" font-size="13" fill="#111">x</text>
+<text x="66" y="30" font-size="13" fill="#111">y</text>
+<text x="64" y="286" font-size="11" fill="#555" text-anchor="end">0</text>
+<rect x="42" y="75.4" width="28" height="194.6" fill="#d6d3d1" stroke="#57534e"/>
+<polyline points="70.0,75.4 84.1,75.5 98.2,75.9 112.4,76.5 126.5,77.3 140.6,78.4 154.7,79.8 168.9,81.3 183.0,83.2 197.1,85.2 211.2,87.5 225.3,90.1 239.5,92.9 253.6,95.9 267.7,99.2 281.8,102.8 296.0,106.5 310.1,110.5 324.2,114.8 338.3,119.3 352.5,124.0 366.6,129.0 380.7,134.3 394.8,139.7 408.9,145.4 423.1,151.4 437.2,157.6 451.3,164.1 465.4,170.7 479.6,177.7 493.7,184.9 507.8,192.3 521.9,199.9 536.0,207.8 550.2,216.0 564.3,224.4 578.4,233.0 592.5,241.9 606.7,251.0 620.8,260.4 634.9,270.0" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="186.7" cy="83.7" r="3.5" fill="#1d4ed8"/><text x="192.7" y="77.7" font-size="11" fill="#1d4ed8">t = 1 s</text><circle cx="303.3" cy="108.6" r="3.5" fill="#1d4ed8"/><text x="309.3" y="102.6" font-size="11" fill="#1d4ed8">t = 2 s</text><circle cx="420.0" cy="150.1" r="3.5" fill="#1d4ed8"/><text x="426.0" y="144.1" font-size="11" fill="#1d4ed8">t = 3 s</text><circle cx="536.7" cy="208.2" r="3.5" fill="#1d4ed8"/><text x="542.7" y="202.2" font-size="11" fill="#1d4ed8">t = 4 s</text>
+<line x1="70" y1="75.4" x2="140" y2="75.4" stroke="#15803d" stroke-width="2"/>
+<polygon points="140,70.4 150,75.4 140,80.4" fill="#15803d"/>
+<text x="80" y="65.4" font-size="12" fill="#15803d">vix = 175 m/s</text>
+<line x1="30" y1="75.4" x2="30" y2="270" stroke="#555" stroke-dasharray="4 3"/>
+<text x="26" y="172.7" font-size="12" fill="#111" text-anchor="end">yi = 115 m</text>
+<line x1="70" y1="300" x2="634.9" y2="300" stroke="#555" stroke-dasharray="4 3"/>
+<line x1="634.9" y1="270" x2="634.9" y2="304" stroke="#555" stroke-dasharray="4 3"/>
+<text x="352.5" y="318" font-size="12" fill="#111" text-anchor="middle">d ≈ 847 m</text>
+<circle cx="634.9" cy="270" r="4" fill="#dc2626"/>
+<text x="642.9" y="262" font-size="12" fill="#dc2626">t ≈ 4,84 s</text>
+<line x1="550" y1="52" x2="550" y2="74" stroke="#7c3aed" stroke-width="2"/><polygon points="545,74 550,84 555,74" fill="#7c3aed"/>
+<text x="562" y="66" font-size="11" fill="#111">a = -9,81 m/s² hacia abajo</text>
+</g></svg>
